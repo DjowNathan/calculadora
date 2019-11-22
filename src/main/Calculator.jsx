@@ -11,7 +11,7 @@ const initialState = {
     values: [0, 0],
     current: 0
 }
-
+// Commit test
 
 export default class Calculator extends Component {
 
